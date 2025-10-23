@@ -1,9 +1,6 @@
 # React Learning Modules
 
-<p align="center">
-  <img src="./banner.png" alt="Banner" width="600"/>
-</p>
-
+![Banner](./banner.png)
 
 A curated collection of React practice modules covering hooks, routing, context API, and component design. Each module is self-contained and beginner-friendly, ideal for hands-on learning and revision.
 
