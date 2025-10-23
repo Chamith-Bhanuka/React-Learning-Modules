@@ -1,0 +1,14 @@
+{
+  "name": "Install_Prettier",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "format": "prettier --write \"src/**/*.{js,jsx}\""
+  },
+  "devDependencies": {
+    "eslint": "8.56",
+    "eslint-config-prettier": "8.10",
+    "prettier": "^3.6.2"
+  }
+}
