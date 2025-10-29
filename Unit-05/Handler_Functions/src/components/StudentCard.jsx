@@ -9,7 +9,7 @@
 //   ]);
 // };
 
-import Student from "../components/Student";
+import Student from "./Student";
 import React from "react";
 import PropTypes from "prop-types";
 
